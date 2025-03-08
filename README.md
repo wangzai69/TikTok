@@ -30,10 +30,8 @@
 
 <br>
 
-
-### TikTok需使用香港、台湾、印度以外的节点IP访问
-
 ## IOS（适用＞16.4系统）
+### TikTok需使用香港、台湾、印度以外的节点IP访问
 - 手机 <code>设置</code>><code>隐私与安全性</code>>定位服务<code>关闭</code>
 - 手机 <code>设置</code>><code>隐私与安全性</code>>跟踪<code>关闭</code>
 - 手机<code>设置</code>><code>通用</code>><code>语言与地区</code>><code>地区</code>><code>美国</code>
@@ -42,6 +40,7 @@
 - 用<code>美ID</code>登录<code>App Store</code>商店下载<code>Tik Tok</code>
 
 ## Android
+### TikTok需使用香港、台湾、印度以外的节点IP访问
 - 常见问题
 - ****1.国际版安装后默认是英语界面，如何切换简体中文界面？****
 - Profile (我的)-设置-App Language (应用语言)-中文简体
