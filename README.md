@@ -38,7 +38,8 @@
 - 港中印不能使用tiktok，地区选哪里就是刷哪个国家的视频，节点要对应国家。
 - 打开<code>Shadowrocket</code>><code>首页</code>><code>全局路由</code>><code>代理</code>
 - 用<code>美ID</code>登录<code>App Store</code>商店下载<code>Tik Tok</code>
-- 
+- 也可使用我提供的 [免费美区ID](https://github.com/wangzai69/AppStoreID)下载
+- 下载Tik Tok教程可以参照 [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 
 ## Android
 ### TikTok需使用大陆、香港、台湾、印度以外的节点IP访问
