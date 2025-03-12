@@ -30,10 +30,6 @@
 
 <br>
 
-### [TikTok网页版](https://www.google.com)
-
-<br>
-
 ## IOS（适用＞16.4系统）
 ### TikTok需使用大陆、香港、台湾、印度以外的节点IP访问
 - 手机 <code>设置</code>><code>隐私与安全性</code>>定位服务<code>关闭</code>
@@ -44,6 +40,7 @@
 - 用<code>美ID</code>登录<code>App Store</code>商店下载<code>Tik Tok</code>
 - 也可使用我提供的 [免费美区ID](https://github.com/wangzai69/AppStoreID)下载
 - 下载Tik Tok教程可以参照 [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
+- [TikTok网页版](https://www.google.com)
 
 ## Android
 ### TikTok需使用大陆、香港、台湾、印度以外的节点IP访问
@@ -58,6 +55,7 @@
 - <a href="https://pan.quark.cn/s/9abb0ff027c3" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 15px; border-radius: 3px;">夸克网盘</a>
 - <a href="https://pan.baidu.com/s/15y3_pod5-Kq8a-uxYqvHsA?pwd=ahhh" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 15px; border-radius: 3px;">百度网盘 提取码: ahhh</a>
 - 可以用google,twitter,facebook账号等登录！
+- [TikTok网页版](https://www.google.com)
 
 
 <br>
