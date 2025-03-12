@@ -39,7 +39,7 @@
 - 打开<code>Shadowrocket</code>><code>首页</code>><code>全局路由</code>><code>代理</code>
 - 用<code>美ID</code>登录<code>App Store</code>商店下载<code>Tik Tok</code>
 - 下载Tik Tok教程可以参照 [2025免费下载官方shadowrocket小火箭（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
-- TikTok[网页版](https://www.tiktok.com)
+- TikTok [网页版](https://www.tiktok.com)
 
 ## Android
 ### TikTok需使用大陆、香港、台湾、印度以外的节点IP访问
@@ -54,7 +54,7 @@
 - <a href="https://pan.quark.cn/s/9abb0ff027c3" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 15px; border-radius: 3px;">夸克网盘</a>
 - <a href="https://pan.baidu.com/s/15y3_pod5-Kq8a-uxYqvHsA?pwd=ahhh" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 15px; border-radius: 3px;">百度网盘 提取码: ahhh</a>
 - 可以用google,twitter,facebook账号等登录！
-- TikTok[网页版](https://www.tiktok.com)
+- TikTok [网页版](https://www.tiktok.com)
 
 
 <br>
