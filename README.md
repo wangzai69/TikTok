@@ -30,6 +30,10 @@
 
 <br>
 
+### [TikTok网页版](https://www.google.com)
+
+<br>
+
 ## IOS（适用＞16.4系统）
 ### TikTok需使用大陆、香港、台湾、印度以外的节点IP访问
 - 手机 <code>设置</code>><code>隐私与安全性</code>>定位服务<code>关闭</code>
