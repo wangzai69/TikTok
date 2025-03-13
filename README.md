@@ -1,4 +1,4 @@
-<h1 align="center">2025最新TikTok苹果安卓教程（终结篇）实时更新</h1>
+<h1 align="center">2025最新免拔卡TikTok苹果安卓教程（终结篇）实时更新</h1>
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
@@ -31,7 +31,7 @@
 
 [2025官方谷歌框架GooglePlay商店服务](https://github.com/wangzai69/GooglePlay)
 
-[2025最新免费TikTok苹果安卓教程](https://github.com/wangzai69/tiktok)
+[2025最新免拔卡TikTok苹果安卓教程](https://github.com/wangzai69/tiktok)
 
 更多文章更新中 ...
 
