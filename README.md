@@ -1,5 +1,6 @@
-🕛 **最后更新时间：`2025年03月16日11时`**  
-⭐ **如果你喜欢这个分享请 ⭐Star 收藏** 
+🕛 **最后更新时间：`2025年03月16日12时`**  
+⭐ **如果你喜欢这个分享请 ⭐Star 收藏**  
+🚀 **如何你想查看更多的资源请[返回首页](https://github.com/wangzai69/fanqiang)**
 
 #
 
@@ -28,30 +29,6 @@
 - <a href="https://pan.quark.cn/s/9abb0ff027c3" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 15px; border-radius: 3px;">夸克网盘</a>
 - <a href="https://pan.baidu.com/s/15y3_pod5-Kq8a-uxYqvHsA?pwd=ahhh" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 15px; border-radius: 3px;">百度网盘 提取码: ahhh</a>
 - 可以用google,twitter,facebook账号等登录！
-
-
-
-#
-
-<br>
-
-| 经典分享丨更多文章更新中 | 
-|------|
-|[精选翻墙梯子节点机场vpn推荐](https://github.com/wangzai69/vpn)                |
-|[翻墙软件官方镜像下载clash等等](https://github.com/wangzai69/app)              |
-|[免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket)   |
-|[翻墙软件如何使用详细图文教程](https://github.com/wangzai69/wiki)               |
-|[官方谷歌框架GooglePlay商店服务](https://github.com/wangzai69/GooglePlay)      |
-|[最新免拔卡TikTok苹果安卓教程](https://github.com/wangzai69/tiktok)             |
-|[推特Twitter下载账号并解除敏感](https://github.com/wangzai69/Twitter)             |
-
-<br>
-
-❤️ **GitHub**: [@wangzai69](https://github.com/wangzai69)  
-📧 **Email**: [eitaanthony7@gmail.com](mailto:eitaanthony7@gmail.com)  
-🌐 **网站**: [https://github.com/wangzai69](https://github.com/wangzai69)  
-
-<br>
 
 
 
